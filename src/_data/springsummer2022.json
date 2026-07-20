@@ -1,0 +1,196 @@
+{
+	"games": [
+		{
+			"complete": true,
+			"date": "Friday April 22, 2022 - 10:45 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 5
+			},
+			"away": {
+				"team": "Spitfires",
+				"score": 2
+			}
+		},
+		{
+			"complete": true,
+			"date": "Friday April 29, 2022 - 7:45 PM",
+			"home": {
+				"team": "Warriors",
+				"score": 3
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 0
+			}
+		},
+		{
+			"complete": true,
+			"date": "Friday May 6, 2022 - 9:30 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 2
+			},
+			"away": {
+				"team": "Thundersticks",
+				"score": 6
+			}
+		},
+		{
+			"complete": true,
+			"date": "Monday May 16, 2022 - 9:30 PM",
+			"home": {
+				"team": "Misfits",
+				"score": 4
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 2
+			}
+		},
+		{
+			"complete": true,
+			"date": "Sunday May 22, 2022 - 7:45 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 8
+			},
+			"away": {
+				"team": "Old Germans",
+				"score": 3
+			}
+		},
+		{
+			"complete": true,
+			"date": "Tuesday May 31, 2022 - 8:45 PM",
+			"home": {
+				"team": "Blue Steel",
+				"score": 5
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 2
+			}
+		},
+		{
+			"complete": true,
+			"date": "Sunday June 5, 2022 - 10:30 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 2
+			},
+			"away": {
+				"team": "Golden Monkeys",
+				"score": 2
+			}
+		},
+		{
+			"complete": true,
+			"date": "Sunday June 12, 2022 - 7:15 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 0
+			},
+			"away": {
+				"team": "Clusterpucks",
+				"score": 4
+			}
+		},
+		{
+			"complete": true,
+			"date": "Friday June 17, 2022 - 9:30 PM",
+			"home": {
+				"team": "Shooting Blanks",
+				"score": 7
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 0
+			}
+		},
+		{
+			"complete": true,
+			"date": "Thursday June 23, 2022 - 10:00 PM",
+			"home": {
+				"team": "Spitfires",
+				"score": 2
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 2
+			}
+		},
+		{
+			"complete": true,
+			"date": "Wednesday June 29, 2022 - 9:30 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 3
+			},
+			"away": {
+				"team": "Warriors",
+				"score": 5
+			}
+		},
+		{
+			"complete": true,
+			"date": "Sunday July 10, 2022 - 9:15 PM",
+			"home": {
+				"team": "Thundersticks",
+				"score": 3
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 5
+			}
+		},
+		{
+			"complete": true,
+			"date": "Tuesday July 19, 2022 - 8:30 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 5
+			},
+			"away": {
+				"team": "Misfits",
+				"score": 10
+			}
+		},
+		{
+			"complete": true,
+			"date": "Sunday July 26, 2022 - 8:30 PM",
+			"home": {
+				"team": "Old Germans",
+				"score": 0
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 5
+			}
+		},
+		{
+			"complete": true,
+			"date": "Wednesday August 3, 2022 - 8:00 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 0
+			},
+			"away": {
+				"team": "Blue Steel",
+				"score": 6
+			}
+		},
+		{
+			"complete": true,
+			"date": "Tuesday August 9, 2022 - 10:00 PM",
+			"home": {
+				"team": "Golden Monkeys",
+				"score": 1
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 8
+			}
+		}
+	]
+}

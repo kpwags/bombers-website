@@ -1,0 +1,274 @@
+{
+	"games": [
+		{
+			"complete": true,
+			"date": "Thursday September 13, 2018 - 10:15 PM",
+			"home": {
+				"team": "Belching Beavers",
+				"score": 4
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 6
+			}
+		},
+		{
+			"complete": true,
+			"date": "Friday September 21, 2018 - 9:45 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 8
+			},
+			"away": {
+				"team": "Misfits",
+				"score": 5
+			}
+		},
+		{
+			"complete": true,
+			"date": "Friday September 28, 2018 - 10:15 PM",
+			"home": {
+				"team": "Spitfires",
+				"score": 1
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 4
+			}
+		},
+		{
+			"complete": true,
+			"date": "Tuesday October 9, 2018 - 10:45 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 5
+			},
+			"away": {
+				"team": "Clusterpucks",
+				"score": 2
+			}
+		},
+		{
+			"complete": true,
+			"date": "Sunday October 21, 2018 - 8:45 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 3
+			},
+			"away": {
+				"team": "Dutch Rudders",
+				"score": 4
+			}
+		},
+		{
+			"complete": true,
+			"date": "Monday November 5, 2018 - 10:00 PM",
+			"home": {
+				"team": "Spitting Jalapenos",
+				"score": 3
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 4
+			}
+		},
+		{
+			"complete": true,
+			"date": "Sunday November 18, 2018 - 10:15 PM",
+			"home": {
+				"team": "Warriors",
+				"score": 4
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 2
+			}
+		},
+		{
+			"complete": true,
+			"date": "Monday December 3, 2018 - 10:00 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 8
+			},
+			"away": {
+				"team": "Belching Beavers",
+				"score": 3
+			}
+		},
+		{
+			"complete": true,
+			"date": "Friday December 7, 2018 - 8:45 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 8
+			},
+			"away": {
+				"team": "Warriors",
+				"score": 4
+			}
+		},
+		{
+			"complete": true,
+			"date": "Tuesday December 18, 2018 - 9:15 PM",
+			"home": {
+				"team": "Misfits",
+				"score": 5
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 6
+			}
+		},
+		{
+			"complete": true,
+			"date": "Thursday December 27, 2018 - 10:15 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 7
+			},
+			"away": {
+				"team": "Spitfires",
+				"score": 1
+			}
+		},
+		{
+			"complete": true,
+			"date": "Tuesday January 8, 2019 - 9:15 PM",
+			"home": {
+				"team": "Clusterpucks",
+				"score": 5
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 1
+			}
+		},
+		{
+			"complete": true,
+			"date": "Friday January 18, 2019 - 10:45 PM",
+			"home": {
+				"team": "Dutch Rudders",
+				"score": 6
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 1
+			}
+		},
+		{
+			"complete": true,
+			"date": "Friday February 1, 2019 - 10:45 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 5
+			},
+			"away": {
+				"team": "Spitting Jalapenos",
+				"score": 2
+			}
+		},
+		{
+			"complete": true,
+			"date": "Friday February 15, 2019 - 10:45 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 1
+			},
+			"away": {
+				"team": "Warriors",
+				"score": 2
+			}
+		},
+		{
+			"complete": true,
+			"date": "Wednesday February 27, 2019 - 10:25 PM",
+			"home": {
+				"team": "Belching Beavers",
+				"score": 3
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 6
+			}
+		},
+		{
+			"complete": true,
+			"date": "Monday March 11, 2019 - 7:45 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 6
+			},
+			"away": {
+				"team": "Misfits",
+				"score": 3
+			}
+		},
+		{
+			"complete": true,
+			"date": "Wednesday March 20, 2019 - 9:00 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 3
+			},
+			"away": {
+				"team": "Spitfires",
+				"score": 6
+			}
+		}
+	],
+	"playoffs": [
+		{
+			"complete": true,
+			"date": "Sunday April 7, 2019 - 8:45 PM",
+			"title": "Semifinals",
+			"home": {
+				"team": "Bombers",
+				"score": 3
+			},
+			"away": {
+				"team": "Spitting Jalapenos",
+				"score": 2
+			}
+		},
+		{
+			"complete": true,
+			"date": "Wednesday April 10, 2019 - 10:00 PM",
+			"title": "Finals (Best of 3)",
+			"home": {
+				"team": "Bombers",
+				"score": 2
+			},
+			"away": {
+				"team": "Clusterpucks",
+				"score": 6
+			}
+		},
+		{
+			"complete": true,
+			"date": "Friday April 12, 2019 - 10:15 PM",
+			"title": "Finals (Best of 3)",
+			"home": {
+				"team": "Bombers",
+				"score": 5
+			},
+			"away": {
+				"team": "Clusterpucks",
+				"score": 4
+			}
+		},
+		{
+			"complete": true,
+			"date": "Thursday April 18, 2019 - 8:15 PM",
+			"title": "Finals (Best of 3)",
+			"home": {
+				"team": "Bombers",
+				"score": 5
+			},
+			"away": {
+				"team": "Clusterpucks",
+				"score": 2
+			}
+		}
+	]
+}

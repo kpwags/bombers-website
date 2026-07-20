@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Inconsolata';
+    src: url('/fonts/inconsolata/inconsolata.ttf') format('truetype');
+    font-weight: 200 900;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: GoblinOne;
+    src: url('/fonts/goblinone/GoblinOne.ttf') format('truetype');
+    font-weight: 200 900;
+    font-display: swap;
+}

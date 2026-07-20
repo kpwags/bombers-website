@@ -1,0 +1,17 @@
+---
+layout: "layouts/layout.html"
+title: "Fall/Winter 2021-22"
+---
+
+<h1>Fall/Winter 2021-22 Season</h1>
+<h2 class="division">C3 Division</h2>
+
+<div class="record"><span>Record:</span> 4 - 10 - 3 (11)</div>
+
+<section class="past-season">
+	<div class="games">
+		{% for game in fallwinter202122.games %}
+			{% game game %}
+		{% endfor %}
+	</div>
+</section>

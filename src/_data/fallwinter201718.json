@@ -1,0 +1,274 @@
+{
+	"games": [
+		{
+			"complete": true,
+			"date": "Tuesday September 5, 2017 - 10:00 PM",
+			"home": {
+				"team": "Warriors",
+				"score": 4
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 1
+			}
+		},
+		{
+			"complete": true,
+			"date": "Wednesday September 13, 2017 - 10:40 PM",
+			"home": {
+				"team": "Pond Jockeys",
+				"score": 3
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 6
+			}
+		},
+		{
+			"complete": true,
+			"date": "Friday September 22, 2017 - 9:45 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 6
+			},
+			"away": {
+				"team": "Tosco's Turtles",
+				"score": 3
+			}
+		},
+		{
+			"complete": true,
+			"date": "Monday October 2, 2017 - 10:05 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 4
+			},
+			"away": {
+				"team": "Jagr Bombs",
+				"score": 4
+			}
+		},
+		{
+			"complete": true,
+			"date": "Thursday October 12, 2017 - 10:15 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 10
+			},
+			"away": {
+				"team": "Krag",
+				"score": 2
+			}
+		},
+		{
+			"complete": true,
+			"date": "Thursday November 2, 2017 - 10:15 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 2
+			},
+			"away": {
+				"team": "Belching Beavers",
+				"score": 6
+			}
+		},
+		{
+			"complete": true,
+			"date": "Friday November 17, 2017 - 8:45 PM",
+			"home": {
+				"team": "Penetrators",
+				"score": 0
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 8
+			}
+		},
+		{
+			"complete": true,
+			"date": "Wednesday November 29, 2017 - 10:25 PM",
+			"home": {
+				"team": "Dutch Rudders",
+				"score": 2
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 5
+			}
+		},
+		{
+			"complete": true,
+			"date": "Wednesday December 13, 2017 - 10:00 PM",
+			"home": {
+				"team": "Blue Steel",
+				"score": 4
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 4
+			}
+		},
+		{
+			"complete": true,
+			"date": "Wednesday December 27, 2017 - 9:15 PM",
+			"home": {
+				"team": "Warriors",
+				"score": 4
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 2
+			}
+		},
+		{
+			"complete": true,
+			"date": "Sunday January 7, 2018 - 10:15 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 5
+			},
+			"away": {
+				"team": "Pond Jockeys",
+				"score": 3
+			}
+		},
+		{
+			"complete": true,
+			"date": "Friday January 19, 2018 - 10:45 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 6
+			},
+			"away": {
+				"team": "Tosco's Turtles",
+				"score": 1
+			}
+		},
+		{
+			"complete": true,
+			"date": "Monday February 5, 2018 - 10:30 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 10
+			},
+			"away": {
+				"team": "Jagr Bombs",
+				"score": 1
+			}
+		},
+		{
+			"complete": true,
+			"date": "Tuesday February 20, 2018 - 10:10 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 5
+			},
+			"away": {
+				"team": "Krag",
+				"score": 1
+			}
+		},
+		{
+			"complete": true,
+			"date": "Tuesday March 13, 2018 - 10:15 PM",
+			"home": {
+				"team": "Dutch Rudders",
+				"score": 7
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 6
+			}
+		},
+		{
+			"complete": true,
+			"date": "Tuesday April 3, 2018 - 7:15 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 5
+			},
+			"away": {
+				"team": "Belching Beavers",
+				"score": 11
+			}
+		},
+		{
+			"complete": true,
+			"date": "Saturday April 7, 2018 - 7:00 PM",
+			"home": {
+				"team": "Blue Steel",
+				"score": 2
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 2
+			}
+		},
+		{
+			"complete": true,
+			"date": "Sunday April 8, 2018 - 9:15 PM",
+			"home": {
+				"team": "Penetrators",
+				"score": 1
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 4
+			}
+		}
+	],
+	"playoffs": [
+		{
+			"complete": true,
+			"date": "Tuesday April 10, 2018 - 7:00 PM",
+			"title": "Semifinals",
+			"home": {
+				"team": "Warriors",
+				"score": 1
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 2
+			}
+		},
+		{
+			"complete": true,
+			"date": "Thursday April 12, 2018 - 10:30 PM",
+			"title": "Finals (Best of 3)",
+			"home": {
+				"team": "Belching Beavers",
+				"score": 4
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 5
+			}
+		},
+		{
+			"complete": true,
+			"date": "Sunday April 15, 2018 - 8:45 PM",
+			"title": "Finals (Best of 3)",
+			"home": {
+				"team": "Belching Beavers",
+				"score": 5
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 4
+			}
+		},
+		{
+			"complete": true,
+			"date": "Tuesday April 17, 2018 - 8:30 PM",
+			"title": "Finals (Best of 3)",
+			"home": {
+				"team": "Belching Beavers",
+				"score": 6
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 4
+			}
+		}
+	]
+}

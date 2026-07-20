@@ -1,0 +1,235 @@
+{
+	"games": [
+		{
+			"complete": true,
+			"date": "Tuesday September 10, 2024 - 10:20 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 5
+			},
+			"away": {
+				"team": "Trash Pandas",
+				"score": 2
+			}
+		},
+		{
+			"complete": true,
+			"date": "Thursday September 19, 2024 - 9:55 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 6
+			},
+			"away": {
+				"team": "No Regretzkys",
+				"score": 2
+			}
+		},
+		{
+			"complete": true,
+			"date": "Sunday September 22, 2024 - 9:45 PM",
+			"home": {
+				"team": "Shooting Blanks",
+				"score": 5
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 2
+			}
+		},
+		{
+			"complete": true,
+			"date": "Friday October 4, 2024 - 10:15 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 4
+			},
+			"away": {
+				"team": "Wolfs",
+				"score": 3
+			}
+		},
+		{
+			"complete": true,
+			"date": "Tuesday October 15, 2024 - 10:30PM",
+			"home": {
+				"team": "Fightin Pickles",
+				"score": 3
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 6
+			}
+		},
+		{
+			"complete": true,
+			"date": "Friday October 25, 2024 - 10:30 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 2
+			},
+			"away": {
+				"team": "Fighting Amish",
+				"score": 7
+			}
+		},
+		{
+			"complete": true,
+			"date": "Thursday November 7, 2024 - 9:55 PM",
+			"home": {
+				"team": "Old Germans",
+				"score": 1
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 5
+			}
+		},
+		{
+			"complete": true,
+			"date": "Sunday November 17, 2024 - 10:30 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 3
+			},
+			"away": {
+				"team": "Golden Monkeys",
+				"score": 3
+			}
+		},
+		{
+			"complete": true,
+			"date": "Tuesday December 3, 2024 - 9:00 PM",
+			"home": {
+				"team": "Goon Platoon",
+				"score": 7
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 5
+			}
+		},
+		{
+			"complete": true,
+			"date": "Sunday December 15, 2024 - 8:30 PM",
+			"home": {
+				"team": "Trash Pandas",
+				"score": 3
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 6
+			}
+		},
+		{
+			"complete": true,
+			"date": "Monday December 23, 2024 - 9:15 PM",
+			"home": {
+				"team": "No Regretzkys",
+				"score": 4
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 8
+			}
+		},
+		{
+			"complete": true,
+			"date": "Sunday January 5, 2025 - 9:00 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 3
+			},
+			"away": {
+				"team": "Shooting Blanks",
+				"score": 2
+			}
+		},
+		{
+			"complete": true,
+			"date": "Tuesday January 14, 2025 - 9:00 PM",
+			"home": {
+				"team": "Wolfs",
+				"score": 6
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 4
+			}
+		},
+		{
+			"complete": true,
+			"date": "Friday January 24, 2025 - 9:00 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 2
+			},
+			"away": {
+				"team": "Fightin Pickles",
+				"score": 2
+			}
+		},
+		{
+			"complete": true,
+			"date": "Monday February 3, 2025 - 10:15 PM",
+			"home": {
+				"team": "Fighting Amish",
+				"score": 7
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 2
+			}
+		},
+		{
+			"complete": true,
+			"date": "Tuesday February 18, 2025 - 10:10 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 8
+			},
+			"away": {
+				"team": "Old Germans",
+				"score": 2
+			}
+		},
+		{
+			"complete": true,
+			"date": "Friday February 28, 2025 - 7:15 PM",
+			"home": {
+				"team": "Golden Monkeys",
+				"score": 2
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 8
+			}
+		},
+		{
+			"complete": true,
+			"date": "Sunday March 9, 2025 - 7:00 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 2
+			},
+			"away": {
+				"team": "Goon Platoon",
+				"score": 10
+			}
+		}
+	],
+	"playoffs": [
+		{
+			"complete": true,
+			"date": "Wednesday March 12, 2025 - 9:15 PM",
+			"title": "Quarterfinals",
+			"home": {
+				"team": "Fightin Pickles",
+				"score": 5
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 1
+			}
+		}
+	]
+}

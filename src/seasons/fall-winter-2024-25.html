@@ -1,0 +1,22 @@
+---
+layout: "layouts/layout.html"
+title: "Fall/Winter 2024-25"
+---
+
+<h1>Fall/Winter 2024-25 Season</h1>
+<h2 class="division">C4 Division</h2>
+
+<div class="record"><span>Record:</span> 10 - 6 - 2 (22)</div>
+
+<section class="past-season">
+	<div class="games">
+		{% for game in fallwinter202425.games %}
+			{% game game %}
+		{% endfor %}
+
+		<h2>Playoffs</h2>
+		{% for game in fallwinter202425.playoffs %}
+			{% game game %}
+		{% endfor %}
+	</div>
+</section>

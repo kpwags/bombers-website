@@ -1,0 +1,198 @@
+{
+	"games": [
+		{
+			"complete": true,
+			"date": "Monday April 17, 2017 - 10:00 PM",
+			"home": {
+				"team": "Old Germans",
+				"score": 6
+			},
+			"away": {
+				"team": "The Lost Boys",
+				"score": 1
+			}
+		},
+		{
+			"complete": true,
+			"date": "Wednesday April 26, 2017 - 10:00 PM",
+			"home": {
+				"team": "The Lost Boys",
+				"score": 0
+			},
+			"away": {
+				"team": "Slugs",
+				"score": 10
+			}
+		},
+		{
+			"complete": true,
+			"date": "Monday May 1, 2017 - 10:00 PM",
+			"home": {
+				"team": "The Lost Boys",
+				"score": 1
+			},
+			"away": {
+				"team": "Money Shot",
+				"score": 11
+			}
+		},
+		{
+			"complete": true,
+			"date": "Wednesday May 10, 2017 - 9:00 PM",
+			"home": {
+				"team": "Buzzards",
+				"score": 12
+			},
+			"away": {
+				"team": "The Lost Boys",
+				"score": 0
+			}
+		},
+		{
+			"complete": true,
+			"date": "Monday May 15, 2017 - 8:45 PM",
+			"home": {
+				"team": "The Lost Boys",
+				"score": 0
+			},
+			"away": {
+				"team": "Storm Kings",
+				"score": 12
+			}
+		},
+		{
+			"complete": true,
+			"date": "Wednesday May 24, 2017 - 8:45 PM",
+			"home": {
+				"team": "The Lost Boys",
+				"score": 1
+			},
+			"away": {
+				"team": "Snipers",
+				"score": 8
+			}
+		},
+		{
+			"complete": true,
+			"date": "Tuesday May 30, 2017 - 10:00 PM",
+			"home": {
+				"team": "Misfits",
+				"score": 6
+			},
+			"away": {
+				"team": "The Lost Boys",
+				"score": 2
+			}
+		},
+		{
+			"complete": true,
+			"date": "Wednesday June 7, 2017 - 10:15 PM",
+			"home": {
+				"team": "The Lost Boys",
+				"score": 2
+			},
+			"away": {
+				"team": "Old Germans",
+				"score": 7
+			}
+		},
+		{
+			"complete": true,
+			"date": "Tuesday June 13, 2017 - 9:15 PM",
+			"home": {
+				"team": "Slugs",
+				"score": 15
+			},
+			"away": {
+				"team": "The Lost Boys",
+				"score": 2
+			}
+		},
+		{
+			"complete": true,
+			"date": "Monday June 19, 2017 - 10:00 PM",
+			"home": {
+				"team": "Money Shot",
+				"score": 9
+			},
+			"away": {
+				"team": "The Lost Boys",
+				"score": 4
+			}
+		},
+		{
+			"complete": true,
+			"date": "Wednesday June 28, 2017 - 8:45 PM",
+			"home": {
+				"team": "The Lost Boys",
+				"score": 2
+			},
+			"away": {
+				"team": "Buzzards",
+				"score": 8
+			}
+		},
+		{
+			"complete": true,
+			"date": "Tuesday July 11, 2017 - 9:00 PM",
+			"home": {
+				"team": "Storm Kings",
+				"score": 4
+			},
+			"away": {
+				"team": "The Lost Boys",
+				"score": 0
+			}
+		},
+		{
+			"complete": true,
+			"date": "Wednesday July 19, 2017 - 10:15 PM",
+			"home": {
+				"team": "Snipers",
+				"score": 8
+			},
+			"away": {
+				"team": "The Lost Boys",
+				"score": 1
+			}
+		},
+		{
+			"complete": true,
+			"date": "Wednesday July 26, 2017 - 8:45 PM",
+			"home": {
+				"team": "The Lost Boys",
+				"score": 3
+			},
+			"away": {
+				"team": "Misfits",
+				"score": 11
+			}
+		},
+		{
+			"complete": true,
+			"date": "Wednesday August 2, 2017 - 9:15 PM",
+			"home": {
+				"team": "Old Germans",
+				"score": 3
+			},
+			"away": {
+				"team": "The Lost Boys",
+				"score": 4
+			}
+		}
+	],
+	"playoffs": [
+		{
+			"complete": true,
+			"date": "Wednesday August 9, 2017 - 9:15 PM",
+			"home": {
+				"team": "Buzzards",
+				"score": 6
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 0
+			}
+		}
+	]
+}

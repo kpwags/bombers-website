@@ -1,0 +1,23 @@
+---
+layout: "layouts/layout.html"
+title: "Fall/Winter 2018-19"
+---
+
+<h1>Fall/Winter 2018-19 Season</h1>
+<h2 class="division">C3 Division</h2>
+
+<div class="record"><span>Record:</span> 12 - 6 - 0 (24)</div>
+<div class="champions">🏆️ Champions!</div>
+
+<section class="past-season">
+	<div class="games">
+		{% for game in fallwinter201819.games %}
+			{% game game %}
+		{% endfor %}
+
+		<h2>Playoffs</h2>
+		{% for game in fallwinter201819.playoffs %}
+			{% game game %}
+		{% endfor %}
+	</div>
+</section>

@@ -1,0 +1,22 @@
+---
+layout: "layouts/layout.html"
+title: "Fall/Winter 2019-20"
+---
+
+<h1>Fall/Winter 2019-20 Season</h1>
+<h2 class="division">C3 Division</h2>
+
+<div class="record"><span>Record:</span> 9 - 7 - 2 (20)</div>
+
+<section class="past-season">
+	<div class="games">
+		{% for game in fallwinter201920.games %}
+			{% game game %}
+		{% endfor %}
+
+		<h2>Playoffs</h2>
+		{% for game in fallwinter201920.playoffs %}
+			{% game game %}
+		{% endfor %}
+	</div>
+</section>

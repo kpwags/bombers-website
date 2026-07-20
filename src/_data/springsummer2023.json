@@ -1,0 +1,196 @@
+{
+	"games": [
+		{
+			"complete": true,
+			"date": "Sunday April 16, 2023 - 8:45 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 4
+			},
+			"away": {
+				"team": "Thundersticks",
+				"score": 5
+			}
+		},
+		{
+			"complete": true,
+			"date": "Friday April 21, 2023 - 7:15 PM",
+			"home": {
+				"team": "Golden Monkeys",
+				"score": 1
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 1
+			}
+		},
+		{
+			"complete": true,
+			"date": "Thursday April 27, 2023 - 10:00 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 0
+			},
+			"away": {
+				"team": "Old Germans",
+				"score": 3
+			}
+		},
+		{
+			"complete": true,
+			"date": "Wednesday May 3, 2023 - 10:15 PM",
+			"home": {
+				"team": "Blue Steel",
+				"score": 5
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 3
+			}
+		},
+		{
+			"complete": true,
+			"date": "Friday May 12, 2023 - 9:15 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 1
+			},
+			"away": {
+				"team": "Sporting Woodies",
+				"score": 5
+			}
+		},
+		{
+			"complete": true,
+			"date": "Friday May 19, 2023 - 7:15 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 3
+			},
+			"away": {
+				"team": "Clusterpucks",
+				"score": 5
+			}
+		},
+		{
+			"complete": true,
+			"date": "Wednesday May 24, 2023 - 10:15 PM",
+			"home": {
+				"team": "Misfits",
+				"score": 8
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 2
+			}
+		},
+		{
+			"complete": true,
+			"date": "Sunday June 4, 2023 - 10:15 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 3
+			},
+			"away": {
+				"team": "Spitfires",
+				"score": 4
+			}
+		},
+		{
+			"complete": true,
+			"date": "Sunday June 11, 2023 - 7:00 PM",
+			"home": {
+				"team": "Warriors",
+				"score": 6
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 3
+			}
+		},
+		{
+			"complete": true,
+			"date": "Thursday June 15, 2023 - 8:45 PM",
+			"home": {
+				"team": "Thundersticks",
+				"score": 5
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 1
+			}
+		},
+		{
+			"complete": true,
+			"date": "Friday June 23, 2023 - 7:15 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 2
+			},
+			"away": {
+				"team": "Golden Monkeys",
+				"score": 5
+			}
+		},
+		{
+			"complete": true,
+			"date": "Thursday June 29, 2023 - 9:45 PM",
+			"home": {
+				"team": "Old Germans",
+				"score": 2
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 1
+			}
+		},
+		{
+			"complete": true,
+			"date": "Tuesday July 11, 2023 - 9:45 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 3
+			},
+			"away": {
+				"team": "Blue Steel",
+				"score": 6
+			}
+		},
+		{
+			"complete": true,
+			"date": "Thursday July 20, 2023 - 10:00 PM",
+			"home": {
+				"team": "Sporting Woodies",
+				"score": 6
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 1
+			}
+		},
+		{
+			"complete": true,
+			"date": "Thursday July 27, 2023 - 9:45 PM",
+			"home": {
+				"team": "Clusterpucks",
+				"score": 5
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 3
+			}
+		},
+		{
+			"complete": true,
+			"date": "Wednesday August 2, 2023 - 10:00 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 0
+			},
+			"away": {
+				"team": "Misfits",
+				"score": 7
+			}
+		}
+	]
+}
