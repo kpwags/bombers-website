@@ -1,0 +1,236 @@
+{
+	"games": [
+		{
+			"complete": true,
+			"date": "Friday September 16, 2022 - 9:00 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 2
+			},
+			"away": {
+				"team": "Thundersticks",
+				"score": 4
+			}
+		},
+		{
+			"complete": true,
+			"date": "Friday September 23, 2022 - 10:15 PM",
+			"home": {
+				"team": "Beer Pressure",
+				"score": 8
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 1
+			}
+		},
+		{
+			"complete": true,
+			"date": "Friday September 30, 2022 - 9:15 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 2
+			},
+			"away": {
+				"team": "Old Germans",
+				"score": 2
+			}
+		},
+		{
+			"complete": true,
+			"date": "Sunday October 9, 2022 - 9:00 PM",
+			"home": {
+				"team": "Blue Steel",
+				"score": 5
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 2
+			}
+		},
+		{
+			"complete": true,
+			"date": "Wednesday October 19, 2022 - 9:30 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 1
+			},
+			"away": {
+				"team": "Sporting Woodies",
+				"score": 5
+			}
+		},
+		{
+			"complete": true,
+			"date": "Tuesday November 1, 2022 - 9:00 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 4
+			},
+			"away": {
+				"team": "Clusterpucks",
+				"score": 4
+			}
+		},
+		{
+			"complete": true,
+			"date": "Wednesday November 9, 2022 - 10:20 PM",
+			"home": {
+				"team": "Shooting Blanks",
+				"score": 1
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 6
+			}
+		},
+		{
+			"complete": true,
+			"date": "Tuesday November 22, 2022 - 10:10 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 1
+			},
+			"away": {
+				"team": "Spitfires",
+				"score": 2
+			}
+		},
+		{
+			"complete": true,
+			"date": "Wednesday December 7, 2022 - 9:30 PM",
+			"home": {
+				"team": "Warriors",
+				"score": 5
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 8
+			}
+		},
+		{
+			"complete": true,
+			"forfeit": "home",
+			"date": "Friday December 16, 2022",
+			"home": {
+				"team": "Thundersticks",
+				"score": 0
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 0
+			}
+		},
+		{
+			"complete": true,
+			"date": "Thursday December 29, 2022 - 8:45 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 2
+			},
+			"away": {
+				"team": "Beer Pressure",
+				"score": 2
+			}
+		},
+		{
+			"complete": true,
+			"date": "Sunday January 8, 2023 - 8:00 PM",
+			"home": {
+				"team": "Old Germans",
+				"score": 1
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 1
+			}
+		},
+		{
+			"complete": true,
+			"date": "Tuesday January 17, 2023 - 10:35 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 6
+			},
+			"away": {
+				"team": "Blue Steel",
+				"score": 3
+			}
+		},
+		{
+			"complete": true,
+			"date": "Friday January 27, 2023 - 10:30 PM",
+			"home": {
+				"team": "Sporting Woodies",
+				"score": 4
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 2
+			}
+		},
+		{
+			"complete": true,
+			"date": "Sunday February 5, 2023 - 10:30 PM",
+			"home": {
+				"team": "Clusterpucks",
+				"score": 3
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 7
+			}
+		},
+		{
+			"complete": true,
+			"date": "Friday February 17, 2023 - 9:00 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 9
+			},
+			"away": {
+				"team": "Shooting Blanks",
+				"score": 3
+			}
+		},
+		{
+			"complete": true,
+			"date": "Thursday March 2, 2023 - 9:55 PM",
+			"home": {
+				"team": "Spitfires",
+				"score": 1
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 5
+			}
+		},
+		{
+			"complete": true,
+			"date": "Tuesday March 7, 2023 - 8:00 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 8
+			},
+			"away": {
+				"team": "Warriors",
+				"score": 1
+			}
+		}
+	],
+	"playoffs": [
+		{
+			"complete": true,
+			"date": "Sunday March 12, 2023 - 9:00 PM",
+			"title": "Quarterfinals",
+			"home": {
+				"team": "Blue Steel",
+				"score": 7
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 3
+			}
+		}
+	]
+}

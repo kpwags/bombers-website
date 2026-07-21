@@ -1,0 +1,250 @@
+{
+	"games": [
+		{
+			"complete": true,
+			"date": "Friday April 27, 2018 - 7:30 PM",
+			"home": {
+				"team": "Pond Jockeys",
+				"score": 1
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 3
+			}
+		},
+		{
+			"complete": true,
+			"date": "Friday May 4, 2018 - 7:45 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 3
+			},
+			"away": {
+				"team": "Dutch Rudders",
+				"score": 5
+			}
+		},
+		{
+			"complete": true,
+			"date": "Tuesday May 8, 2018 - 9:45 PM",
+			"home": {
+				"team": "Warriors",
+				"score": 3
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 7
+			}
+		},
+		{
+			"complete": true,
+			"date": "Wednesday May 16, 2018 - 8:15 PM",
+			"home": {
+				"team": "Spitting Jalapenos",
+				"score": 0
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 1
+			}
+		},
+		{
+			"complete": true,
+			"date": "Thursday May 24, 2018 - 9:00 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 3
+			},
+			"away": {
+				"team": "Clusterpucks",
+				"score": 5
+			}
+		},
+		{
+			"complete": true,
+			"date": "Tuesday June 5, 2018 - 7:15 PM",
+			"home": {
+				"team": "Spitfires",
+				"score": 4
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 6
+			}
+		},
+		{
+			"complete": true,
+			"date": "Sunday June 10, 2018 - 8:45 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 2
+			},
+			"away": {
+				"team": "Blue Steel",
+				"score": 9
+			}
+		},
+		{
+			"complete": true,
+			"date": "Friday June 15, 2018 - 7:30 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 0
+			},
+			"away": {
+				"team": "Pond Jockeys",
+				"score": 8
+			}
+		},
+		{
+			"complete": true,
+			"date": "Thursday June 21, 2018 - 8:45 PM",
+			"home": {
+				"team": "Dutch Rudders",
+				"score": 2
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 4
+			}
+		},
+		{
+			"complete": true,
+			"date": "Tuesday June 26, 2018 - 8:45 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 2
+			},
+			"away": {
+				"team": "Warriors",
+				"score": 10
+			}
+		},
+		{
+			"complete": true,
+			"date": "Monday July 2, 2018 - 8:45 PM",
+			"home": {
+				"team": "Spitting Jalapenos",
+				"score": 4
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 4
+			}
+		},
+		{
+			"complete": true,
+			"date": "Tuesday July 10, 2018 - 7:45 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 7
+			},
+			"away": {
+				"team": "Clusterpucks",
+				"score": 4
+			}
+		},
+		{
+			"complete": true,
+			"date": "Wednesday July 18, 2018 - 7:00 PM",
+			"home": {
+				"team": "Spitfires",
+				"score": 1
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 2
+			}
+		},
+		{
+			"complete": true,
+			"date": "Monday July 23, 2018 - 10:15 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 8
+			},
+			"away": {
+				"team": "Blue Steel",
+				"score": 4
+			}
+		},
+		{
+			"complete": true,
+			"date": "Sunday July 29, 2018 - 10:00 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 7
+			},
+			"away": {
+				"team": "Pond Jockeys",
+				"score": 4
+			}
+		},
+		{
+			"complete": true,
+			"date": "Tuesday August 7, 2018 - 9:45 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 5
+			},
+			"away": {
+				"team": "Dutch Rudders",
+				"score": 6
+			}
+		}
+	],
+	"playoffs": [
+		{
+			"complete": true,
+			"date": "Tuesday August 14, 2018 - 10:15 PM",
+			"title": "Quarterfinals",
+			"home": {
+				"team": "Bombers",
+				"score": 5
+			},
+			"away": {
+				"team": "Spitting Jalapenos",
+				"score": 4
+			}
+		},
+		{
+			"complete": true,
+			"date": "Sunday August 19, 2018 - 9:00 PM",
+			"title": "Semifinals",
+			"home": {
+				"team": "Warriors",
+				"score": 1
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 7
+			}
+		},
+		{
+			"complete": true,
+			"date": "Tuesday August 21, 2018 - 7:30 PM",
+			"title": "Finals (Best of 3)",
+			"home": {
+				"team": "Clusterpucks",
+				"score": 7
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 2
+			}
+		},
+		{
+			"complete": true,
+			"date": "Thursday August 23, 2018 - 10:30 PM",
+			"title": "Finals (Best of 3)",
+			"home": {
+				"team": "Clusterpucks",
+				"score": 10
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 4
+			}
+		}
+	]
+}

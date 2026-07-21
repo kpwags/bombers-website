@@ -1,0 +1,196 @@
+{
+	"games": [
+		{
+			"complete": true,
+			"date": "Thursday April 10, 2025 - 9:30 PM",
+			"home": {
+				"team": "No Regretzkys",
+				"score": 3
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 2
+			}
+		},
+		{
+			"complete": true,
+			"date": "Thursday April 17, 2025 - 8:45 PM",
+			"home": {
+				"team": "Wolfs",
+				"score": 4
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 2
+			}
+		},
+		{
+			"complete": true,
+			"date": "Tuesday May 6, 2025 - 8:30 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 1
+			},
+			"away": {
+				"team": "Golden Monkeys",
+				"score": 4
+			}
+		},
+		{
+			"complete": true,
+			"date": "Friday May 9, 2025 - 7:15 PM",
+			"home": {
+				"team": "Fightin Pickles",
+				"score": 6
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 5
+			}
+		},
+		{
+			"complete": true,
+			"date": "Tuesday May 13, 2025 - 8:45 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 1
+			},
+			"away": {
+				"team": "Saucers",
+				"score": 0
+			}
+		},
+		{
+			"complete": true,
+			"date": "Sunday May 18, 2025 - 10:30 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 2
+			},
+			"away": {
+				"team": "Goon Platoon",
+				"score": 7
+			}
+		},
+		{
+			"complete": true,
+			"date": "Sunday June 1, 2025 - 7:30 PM",
+			"home": {
+				"team": "Old Germans",
+				"score": 4
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 1
+			}
+		},
+		{
+			"complete": true,
+			"date": "Tuesday June 3, 2025 - 10:00 PM",
+			"home": {
+				"team": "Jagr Bombs",
+				"score": 7
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 1
+			}
+		},
+		{
+			"complete": true,
+			"date": "Monday June 9, 2025 - 8:00 PM",
+			"home": {
+				"team": "Old Germans",
+				"score": 2
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 2
+			}
+		},
+		{
+			"complete": true,
+			"date": "Wednesday June 11, 2025 - 10:00 PM",
+			"home": {
+				"team": "Jagr Bombs",
+				"score": 4
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 2
+			}
+		},
+		{
+			"complete": true,
+			"date": "Sunday June 22, 2025 - 7:30 PM",
+			"home": {
+				"team": "Wolfs",
+				"score": 4
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 1
+			}
+		},
+		{
+			"complete": true,
+			"date": "Thursday June 26, 2025 - 8:30 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 3
+			},
+			"away": {
+				"team": "Fightin Pickles",
+				"score": 2
+			}
+		},
+		{
+			"complete": true,
+			"date": "Wednesday July 9, 2025 - 8:15 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 7
+			},
+			"away": {
+				"team": "Saucers",
+				"score": 1
+			}
+		},
+		{
+			"complete": true,
+			"date": "Tuesday July 15, 2025 - 8:45 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 1
+			},
+			"away": {
+				"team": "Good Platoon",
+				"score": 3
+			}
+		},
+		{
+			"complete": true,
+			"date": "Tuesday July 29, 2025 - 9:45 PM",
+			"home": {
+				"team": "No Regretzkys",
+				"score": 7
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 4
+			}
+		},
+		{
+			"complete": true,
+			"date": "Thursday July 31, 2025 - 10:15 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 8
+			},
+			"away": {
+				"team": "Golden Monkeys",
+				"score": 3
+			}
+		}
+	]
+}

@@ -1,0 +1,199 @@
+{
+	"pastGames": [
+		{
+			"complete": true,
+			"date": "Sunday July 19, 2026 at 10:15 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 5
+			},
+			"away": {
+				"team": "Old Germans",
+				"score": 5
+			}
+		},
+		{
+			"complete": true,
+			"date": "Tuesday July 14, 2026 at 10:30 PM",
+			"home": {
+				"team": "Golden Monkeys",
+				"score": 3
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 8
+			}
+		},
+		{
+			"complete": true,
+			"date": "Thursday July 9, 2026 at 8:30 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 2
+			},
+			"away": {
+				"team": "Goon Platoon",
+				"score": 3
+			}
+		},
+		{
+			"complete": true,
+			"date": "Thursday July 2, 2026 at 8:45 PM",
+			"home": {
+				"team": "Fighting Amish",
+				"score": 9
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 1
+			}
+		},
+		{
+			"complete": true,
+			"date": "Friday June 26, 2026 at 9:00 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 7
+			},
+			"away": {
+				"team": "Spare Parts",
+				"score": 6
+			}
+		},
+		{
+			"complete": true,
+			"date": "Friday June 19, 2026 at 9:15 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 0
+			},
+			"away": {
+				"team": "Vandals",
+				"score": 6
+			}
+		},
+		{
+			"complete": true,
+			"date": "Friday June 12, 2026 at 10:30 PM",
+			"home": {
+				"team": "Saucers",
+				"score": 1
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 4
+			}
+		},
+		{
+			"complete": true,
+			"date": "Friday June 5, 2026 at 10:15 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 2
+			},
+			"away": {
+				"team": "Fightin Pickles",
+				"score": 10
+			}
+		},
+		{
+			"complete": true,
+			"date": "Tuesday May 26, 2026 at 8:45 PM",
+			"home": {
+				"team": "No Regretzkys",
+				"score": 9
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 1
+			}
+		},
+		{
+			"complete": true,
+			"date": "Monday May 18, 2026 at 10:30 PM",
+			"home": {
+				"team": "Old Germans",
+				"score": 1
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 2
+			}
+		},
+		{
+			"complete": true,
+			"date": "Wednesday May 13, 2026 at 8:45 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 3
+			},
+			"away": {
+				"team": "Golden Monkeys",
+				"score": 7
+			}
+		},
+		{
+			"complete": true,
+			"date": "Thursday May 7, 2026 at 10:15 PM",
+			"home": {
+				"team": "Goon Platoon",
+				"score": 3
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 2
+			}
+		},
+		{
+			"complete": true,
+			"date": "Sunday May 3, 2026 at 8:45 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 5
+			},
+			"away": {
+				"team": "Fighting Amish",
+				"score": 2
+			}
+		},
+		{
+			"complete": true,
+			"date": "Friday April 24, 2026 at 9:15 PM",
+			"home": {
+				"team": "Spare Parts",
+				"score": 2
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 8
+			}
+		},
+		{
+			"complete": true,
+			"date": "Thursday April 16, 2026 at 10:15 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 6
+			},
+			"away": {
+				"team": "Golden Monkeys",
+				"score": 4
+			}
+		},
+		{
+			"complete": true,
+			"date": "Sunday April 12, 2026 at 8:30 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 7
+			},
+			"away": {
+				"team": "Saucers",
+				"score": 1
+			}
+		}
+	],
+	"upcomingGames": [
+
+	]
+}

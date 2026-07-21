@@ -1,0 +1,17 @@
+---
+layout: "layouts/layout.html"
+title: "Spring/Summer 2022"
+---
+
+<h1>Spring/Summer 2022 Season</h1>
+<h2 class="division">C3 Division</h2>
+
+<div class="record"><span>Record:</span> 5 - 9 - 2 (12)</div>
+
+<section class="past-season">
+	<div class="games">
+		{% for game in springsummer2022.games %}
+			{% game game %}
+		{% endfor %}
+	</div>
+</section>

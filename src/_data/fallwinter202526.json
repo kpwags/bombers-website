@@ -1,0 +1,220 @@
+{
+	"games": [
+		{
+			"complete": true,
+			"date": "Tuesday March 10, 2026 - 8:40 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 0
+			},
+			"away": {
+				"team": "Kingslayers",
+				"score": 6
+			}
+		},
+		{
+			"complete": true,
+			"date": "Wednesday February 18, 2026 - 9:15 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 3
+			},
+			"away": {
+				"team": "No Regretzkys",
+				"score": 5
+			}
+		},
+		{
+			"complete": true,
+			"date": "Thursday February 5, 2026 - 9:35 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 3
+			},
+			"away": {
+				"team": "Old Germans",
+				"score": 1
+			}
+		},
+		{
+			"complete": true,
+			"date": "Monday January 26, 2026 - 8:45 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 2
+			},
+			"away": {
+				"team": "Fighting Amish",
+				"score": 7
+			}
+		},
+		{
+			"complete": true,
+			"date": "Thursday January 22, 2026 - 9:35 PM",
+			"home": {
+				"team": "Saucers",
+				"score": 0
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 7
+			}
+		},
+		{
+			"complete": true,
+			"date": "Wednesday January 14, 2026 - 10:30 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 0
+			},
+			"away": {
+				"team": "Fightin Pickles",
+				"score": 10
+			}
+		},
+		{
+			"complete": true,
+			"date": "Monday January 5, 2026 - 9:15 PM",
+			"home": {
+				"team": "Goon Platoon",
+				"score": 1
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 6
+			}
+		},
+		{
+			"complete": true,
+			"date": "Monday December 22, 2025 - 10:15 PM",
+			"home": {
+				"team": "Saucers",
+				"score": 0
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 6
+			}
+		},
+		{
+			"complete": true,
+			"date": "Thursday December 11, 2025 - 10:25 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 3
+			},
+			"away": {
+				"team": "Golden Monkeys",
+				"score": 6
+			}
+		},
+		{
+			"complete": true,
+			"date": "Sunday November 30, 2025 - 7:00 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 0
+			},
+			"away": {
+				"team": "Kingslayers",
+				"score": 1
+			}
+		},
+		{
+			"complete": true,
+			"date": "Tuesday November 11, 2025 - 10:10 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 5
+			},
+			"away": {
+				"team": "Fighting Amish",
+				"score": 7
+			}
+		},
+		{
+			"complete": true,
+			"date": "Tuesday November 4, 2025 - 10:10 PM",
+			"home": {
+				"team": "No Regretzkys",
+				"score": 4
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 1
+			}
+		},
+		{
+			"complete": true,
+			"date": "Wednesday October 22, 2025 - 10:10 PM",
+			"home": {
+				"team": "Old Germans",
+				"score": 5
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 3
+			}
+		},
+		{
+			"complete": true,
+			"date": "Sunday October 12, 2025 - 10:15 PM",
+			"home": {
+				"team": "Fighting Amish",
+				"score": 7
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 3
+			}
+		},
+		{
+			"complete": true,
+			"date": "Friday October 3, 2025 - 7:30 PM",
+			"home": {
+				"team": "Fightin Pickles",
+				"score": 7
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 0
+			}
+		},
+		{
+			"complete": true,
+			"date": "Thursday September 25, 2025 - 10:10 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 3
+			},
+			"away": {
+				"team": "Goon Platoon",
+				"score": 2
+			}
+		},
+		{
+			"complete": true,
+			"date": "Thursday September 18, 2025 - 9:35 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 8
+			},
+			"away": {
+				"team": "Saucers",
+				"score": 1
+			}
+		},
+		{
+			"complete": true,
+			"date": "Wednesday September 10, 2025 - 10:10 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 3
+			},
+			"away": {
+				"team": "Golden Monkeys",
+				"score": 5
+			}
+		}
+	]
+}

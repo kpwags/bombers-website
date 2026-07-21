@@ -1,0 +1,236 @@
+{
+	"games": [
+		{
+			"complete": true,
+			"date": "Friday September 13, 2019 - 8:45 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 1
+			},
+			"away": {
+				"team": "Misfits",
+				"score": 4
+			}
+		},
+		{
+			"complete": true,
+			"date": "Friday September 20, 2019 - 7:30 PM",
+			"home": {
+				"team": "Clusterpucks",
+				"score": 5
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 3
+			}
+		},
+		{
+			"complete": true,
+			"date": "Sunday September 22, 2019 - 9:40 PM",
+			"home": {
+				"team": "Belching Beavers",
+				"score": 3
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 4
+			}
+		},
+		{
+			"complete": true,
+			"date": "Monday October 7, 2019 - 10:05 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 2
+			},
+			"away": {
+				"team": "Spitfires",
+				"score": 2
+			}
+		},
+		{
+			"complete": true,
+			"forfeit": "home",
+			"date": "Sunday October 13, 2019 - 9:20 PM",
+			"home": {
+				"team": "Jagr Bombs",
+				"score": 0
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 0
+			}
+		},
+		{
+			"complete": true,
+			"date": "Sunday October 27, 2019 - 8:45 PM",
+			"home": {
+				"team": "Clusterpucks",
+				"score": 1
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 3
+			}
+		},
+		{
+			"complete": true,
+			"date": "Tuesday November 12, 2019 - 10:10 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 2
+			},
+			"away": {
+				"team": "Spitting Jalapenos",
+				"score": 10
+			}
+		},
+		{
+			"complete": true,
+			"date": "Wednesday December 4, 2019 - 10:05 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 2
+			},
+			"away": {
+				"team": "Spitfires",
+				"score": 2
+			}
+		},
+		{
+			"complete": true,
+			"date": "Wednesday December 18, 2019 - 9:05 PM",
+			"home": {
+				"team": "Misfits",
+				"score": 3
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 4
+			}
+		},
+		{
+			"complete": true,
+			"date": "Monday December 30, 2019 - 9:15 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 2
+			},
+			"away": {
+				"team": "Belching Beavers",
+				"score": 7
+			}
+		},
+		{
+			"complete": true,
+			"date": "Monday January 13, 2020 - 10:20 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 3
+			},
+			"away": {
+				"team": "Spitting Jalapenos",
+				"score": 2
+			}
+		},
+		{
+			"complete": true,
+			"date": "Thursday January 30, 2020 - 10:35 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 6
+			},
+			"away": {
+				"team": "Jagr Bombs",
+				"score": 0
+			}
+		},
+		{
+			"complete": true,
+			"date": "Saturday February 8, 2020 - 7:30 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 4
+			},
+			"away": {
+				"team": "Clusterpucks",
+				"score": 3
+			}
+		},
+		{
+			"complete": true,
+			"date": "Thursday February 20, 2020 - 9:20 PM",
+			"home": {
+				"team": "Spitting Jalapenos",
+				"score": 3
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 2
+			}
+		},
+		{
+			"complete": true,
+			"date": "Sunday March 7, 2020 - 8:45 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 5
+			},
+			"away": {
+				"team": "Misfits",
+				"score": 8
+			}
+		},
+		{
+			"complete": true,
+			"date": "Sunday July 26, 2020 - 7:45 PM",
+			"home": {
+				"team": "Belching Beavers",
+				"score": 3
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 9
+			}
+		},
+		{
+			"complete": true,
+			"date": "Wednesday August 12, 2020 - 9:15 PM",
+			"home": {
+				"team": "Jagr Bombs",
+				"score": 6
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 3
+			}
+		},
+		{
+			"complete": true,
+			"date": "Monday August 17, 2020 - 10:45 PM",
+			"home": {
+				"team": "Spitfires",
+				"score": 2
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 3
+			}
+		}
+	],
+	"playoffs": [
+		{
+			"complete": true,
+			"date": "Wednesday August 26, 2020 - 9:15 PM",
+			"title": "Semifinals",
+			"home": {
+				"team": "Misfits",
+				"score": 8
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 5
+			}
+		}
+	]
+}

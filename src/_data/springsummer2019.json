@@ -1,0 +1,250 @@
+{
+	"games": [
+		{
+			"complete": true,
+			"date": "Thursday April 25, 2019 - 7:30 PM",
+			"home": {
+				"team": "Spitting Jalapenos",
+				"score": 8
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 2
+			}
+		},
+		{
+			"complete": true,
+			"date": "Wednesday May 1, 2019 - 8:30 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 1
+			},
+			"away": {
+				"team": "Spitfires",
+				"score": 7
+			}
+		},
+		{
+			"complete": true,
+			"date": "Tuesday May 7, 2019 - 10:30 PM",
+			"home": {
+				"team": "Dutch Rudders",
+				"score": 6
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 4
+			}
+		},
+		{
+			"complete": true,
+			"date": "Thursday May 16, 2019 - 9:00 PM",
+			"home": {
+				"team": "Misfits",
+				"score": 3
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 5
+			}
+		},
+		{
+			"complete": true,
+			"date": "Thursday May 23, 2019 - 9:15 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 4
+			},
+			"away": {
+				"team": "Clusterpucks",
+				"score": 6
+			}
+		},
+		{
+			"complete": true,
+			"date": "Friday May 31, 2019 - 9:45 PM",
+			"home": {
+				"team": "Jagr Bombs",
+				"score": 4
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 5
+			}
+		},
+		{
+			"complete": true,
+			"date": "Thursday June 6, 2019 - 9:15 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 6
+			},
+			"away": {
+				"team": "Belching Beavers",
+				"score": 1
+			}
+		},
+		{
+			"complete": true,
+			"date": "Tuesday June 11, 2019 - 10:15 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 3
+			},
+			"away": {
+				"team": "Spitting Jalapenos",
+				"score": 2
+			}
+		},
+		{
+			"complete": true,
+			"date": "Tuesday June 18, 2019 - 10:30 PM",
+			"home": {
+				"team": "Spitfires",
+				"score": 5
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 3
+			}
+		},
+		{
+			"complete": true,
+			"date": "Tuesday June 25, 2019 - 9:00 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 4
+			},
+			"away": {
+				"team": "Dutch Rudders",
+				"score": 7
+			}
+		},
+		{
+			"complete": true,
+			"date": "Sunday June 30, 2019 - 8:00 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 5
+			},
+			"away": {
+				"team": "Misfits",
+				"score": 3
+			}
+		},
+		{
+			"complete": true,
+			"date": "Wednesday July 10, 2019 - 9:00 PM",
+			"home": {
+				"team": "Clusterpucks",
+				"score": 7
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 2
+			}
+		},
+		{
+			"complete": true,
+			"date": "Wednesday July 17, 2019 - 10:15 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 1
+			},
+			"away": {
+				"team": "Jagr Bombs",
+				"score": 2
+			}
+		},
+		{
+			"complete": true,
+			"date": "Sunday July 28, 2019 - 7:30 PM",
+			"home": {
+				"team": "Belching Beavers",
+				"score": 4
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 1
+			}
+		},
+		{
+			"complete": true,
+			"date": "Sunday August 4, 2019 - 7:30 PM",
+			"home": {
+				"team": "Spitting Jalapenos",
+				"score": 4
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 1
+			}
+		},
+		{
+			"complete": true,
+			"date": "Sunday August 11, 2019 - 10:30 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 7
+			},
+			"away": {
+				"team": "Spitfires",
+				"score": 0
+			}
+		}
+	],
+	"playoffs": [
+		{
+			"complete": true,
+			"date": "Tuesday August 20, 2019 - 9:00 PM",
+			"title": "Quarterfinals",
+			"home": {
+				"team": "Jagr Bombs",
+				"score": 3
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 4
+			}
+		},
+		{
+			"complete": true,
+			"date": "Wednesday August 21, 2019 - 10:30 PM",
+			"title": "Semifinals",
+			"home": {
+				"team": "Bombers",
+				"score": 3
+			},
+			"away": {
+				"team": "Spitfires",
+				"score": 0
+			}
+		},
+		{
+			"complete": true,
+			"date": "Thursday August 22, 2019 - 9:15 PM",
+			"title": "Finals (Best of 3)",
+			"home": {
+				"team": "Clusterpucks",
+				"score": 5
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 2
+			}
+		},
+		{
+			"complete": true,
+			"date": "Monday August 26, 2019 - 8:45 PM",
+			"title": "Finals (Best of 3)",
+			"home": {
+				"team": "Clusterpucks",
+				"score": 4
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 1
+			}
+		}
+	]
+}

@@ -1,0 +1,24 @@
+---
+layout: "layouts/layout.html"
+title: "Spring/Summer 2017"
+---
+
+<h1>Spring/Summer 2017 Season</h1>
+<h2 class="division">C Division</h2>
+
+<div class="record"><span>Record:</span> 1 - 14 - 0 (2)</div>
+
+<p>We played our first season at Ice Line in West Chester, PA as <em>The Lost Boys</em>. We were outmatched just about every game.</p>
+
+<section class="past-season">
+	<div class="games">
+		{% for game in springsummer2017.games %}
+			{% game game %}
+		{% endfor %}
+
+		<h2>Playoffs</h2>
+		{% for game in springsummer2017.playoffs %}
+			{% game game %}
+		{% endfor %}
+	</div>
+</section>
