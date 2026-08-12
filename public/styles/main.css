@@ -481,6 +481,13 @@ section.homepage-schedule .view-all {
     line-height: 1;
     font-size: 1rem;
     font-style: italic;
+    display: flex;
+    gap: 8px;
+    align-items: center;
+}
+
+.game .title svg {
+    fill: var(--primary-color);
 }
 
 section.current-season .games {

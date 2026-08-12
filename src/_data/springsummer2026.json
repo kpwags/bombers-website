@@ -195,5 +195,20 @@
 	],
 	"upcomingGames": [
 
+	],
+	"playoffs": [
+		{
+			"complete": false,
+			"date": "Sunday August 16, 2026 at 7:30 PM",
+			"title": "Quarterfinals",
+			"home": {
+				"team": "Fighting Amish",
+				"score": 0
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 0
+			}
+		}
 	]
 }
