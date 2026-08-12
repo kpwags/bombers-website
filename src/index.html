@@ -19,6 +19,8 @@ title: ""
 			<h3>Next Game</h3>
 			{% if springsummer2026.upcomingGames.length > 0 %}
 				{% game springsummer2026.upcomingGames.first %}
+			{% elsif springsummer2026.playoffs.length > 0 %}
+				{% game springsummer2026.playoffs.first %}
 			{% else %}
 				<p><em>No Game Scheduled</em></p>
 			{% endif %}

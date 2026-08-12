@@ -16,6 +16,10 @@ title: "Spring/Summer 2026"
 				{% for game in springsummer2026.upcomingGames %}
 					{% game game %}
 				{% endfor %}
+			{% elsif springsummer2026.playoffs.length > 0 %}
+				{% for game in springsummer2026.playoffs %}
+					{% game game %}
+				{% endfor %}
 			{% else %}
 				<p><em>No Games Scheduled</em></p>
 			{% endif %}
