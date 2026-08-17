@@ -2,6 +2,19 @@
 	"pastGames": [
 		{
 			"complete": true,
+			"date": "Sunday August 16, 2026 at 7:30 PM",
+			"title": "Quarterfinals",
+			"home": {
+				"team": "Fighting Amish",
+				"score": 2
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 3
+			}
+		},
+		{
+			"complete": true,
 			"date": "Sunday July 19, 2026 at 10:15 PM",
 			"home": {
 				"team": "Bombers",
@@ -199,10 +212,10 @@
 	"playoffs": [
 		{
 			"complete": false,
-			"date": "Sunday August 16, 2026 at 7:30 PM",
-			"title": "Quarterfinals",
+			"date": "Wednesday August 19, 2026 at 10:30 PM",
+			"title": "Semifinals",
 			"home": {
-				"team": "Fighting Amish",
+				"team": "No Regretzkys",
 				"score": 0
 			},
 			"away": {
