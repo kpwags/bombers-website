@@ -3,7 +3,7 @@ export const seasonRecord = (season) => {
 	let losses = 0;
 	let ties = 0;
 
-	const games = season.pastGames;
+	const games = season.pastGames.filter((g) => (g?.title ?? '').length === 0);
 
 	games.forEach((game) => {
 		const homeScore = game.home.score;
