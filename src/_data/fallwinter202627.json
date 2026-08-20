@@ -1,0 +1,221 @@
+{
+	"pastGames": [],
+	"upcomingGames": [
+		{
+			"complete": false,
+			"date": "Wednesday September 9, 2026 at 9:15 PM",
+			"home": {
+				"team": "Kingslayers",
+				"score": 0
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 0
+			}
+		},
+		{
+			"complete": false,
+			"date": "Tuesday September 15, 2026 at 10:10 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 0
+			},
+			"away": {
+				"team": "Goon Platoon",
+				"score": 0
+			}
+		},
+		{
+			"complete": false,
+			"date": "Sunday September 20, 2026 at 8:45 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 0
+			},
+			"away": {
+				"team": "Vandals",
+				"score": 0
+			}
+		},
+		{
+			"complete": false,
+			"date": "Monday September 28, 2026 at 7:15 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 0
+			},
+			"away": {
+				"team": "Handle with Care",
+				"score": 0
+			}
+		},
+		{
+			"complete": false,
+			"date": "Friday October 2, 2026 at 9:15 PM",
+			"home": {
+				"team": "Spare Parts",
+				"score": 0
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 0
+			}
+		},
+		{
+			"complete": false,
+			"date": "Sunday October 11, 2026 at 10:15 PM",
+			"home": {
+				"team": "Saucers",
+				"score": 0
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 0
+			}
+		},
+		{
+			"complete": false,
+			"date": "Thursday October 29, 2026 at 10:25 PM",
+			"home": {
+				"team": "Old Germans",
+				"score": 0
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 0
+			}
+		},
+		{
+			"complete": false,
+			"date": "Sunday November 1, 2026 at 8:45 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 0
+			},
+			"away": {
+				"team": "Saucers",
+				"score": 0
+			}
+		},
+		{
+			"complete": false,
+			"date": "Wednesday November 4, 2026 at 10:10 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 0
+			},
+			"away": {
+				"team": "Old Germans",
+				"score": 0
+			}
+		},
+		{
+			"complete": false,
+			"date": "Friday November 20, 2026 at 10:45 PM",
+			"home": {
+				"team": "Vandals",
+				"score": 0
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 0
+			}
+		},
+		{
+			"complete": false,
+			"date": "Tuesday December 1, 2026 at 10:25 PM",
+			"home": {
+				"team": "Fighting Amish",
+				"score": 0
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 0
+			}
+		},
+		{
+			"complete": false,
+			"date": "Thursday December 10, 2026 at 10:35 PM",
+			"home": {
+				"team": "Golden Monkeys",
+				"score": 0
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 0
+			}
+		},
+		{
+			"complete": false,
+			"date": "Wednesday December 16, 2026 at 10:10 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 0
+			},
+			"away": {
+				"team": "Fighting Amish",
+				"score": 0
+			}
+		},
+		{
+			"complete": false,
+			"date": "Sunday January 10, 2027 at 10:15 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 0
+			},
+			"away": {
+				"team": "Golden Monkeys",
+				"score": 0
+			}
+		},
+		{
+			"complete": false,
+			"date": "Thursday January 14, 2027 at 9:50 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 0
+			},
+			"away": {
+				"team": "Kingslayers",
+				"score": 0
+			}
+		},
+		{
+			"complete": false,
+			"date": "Sunday January 24, 2027 at 10:15 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 0
+			},
+			"away": {
+				"team": "Spare Parts",
+				"score": 0
+			}
+		},
+		{
+			"complete": false,
+			"date": "Friday February 5, 2027 at 9:00 PM",
+			"home": {
+				"team": "Goon Platoon",
+				"score": 0
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 0
+			}
+		},
+		{
+			"complete": false,
+			"date": "Friday February 19, 2027 at 9:15 PM",
+			"home": {
+				"team": "Handle with Care",
+				"score": 0
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 0
+			}
+		}
+	]
+}

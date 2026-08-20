@@ -1,0 +1,39 @@
+---
+layout: "layouts/layout.html"
+title: "Fall/Winter 2026-27"
+---
+
+<h1>Fall/Winter 2026-27 Season</h1>
+<h2 class="division">C4 Division</h2>
+
+<div class="record"><span>Record:</span> {% seasonRecord fallwinter202627 %}</div>
+
+<section class="current-season">
+	<div class="games">
+		<div class="game-col">
+			<h2>Upcoming Games</h2>
+			{% if fallwinter202627.upcomingGames.length > 0 %}
+				{% for game in fallwinter202627.upcomingGames %}
+					{% game game %}
+				{% endfor %}
+			{% elsif fallwinter202627.playoffs.length > 0 %}
+				{% for game in fallwinter202627.playoffs %}
+					{% game game %}
+				{% endfor %}
+			{% else %}
+				<p><em>No Games Scheduled</em></p>
+			{% endif %}
+		</div>
+
+		<div class="game-col">
+			<h2>Past Games</h2>
+			{% if fallwinter202627.pastGames.length > 0 %}
+				{% for game in fallwinter202627.pastGames %}
+					{% game game %}
+				{% endfor %}
+			{% else %}
+				<p><em>No Game Played</em></p>
+			{% endif %}
+		</div>
+	</div>
+</section>

@@ -17,10 +17,10 @@ title: ""
 	<div class="games">
 		<div class="game-col">
 			<h3>Next Game</h3>
-			{% if springsummer2026.upcomingGames.length > 0 %}
-				{% game springsummer2026.upcomingGames.first %}
-			{% elsif springsummer2026.playoffs.length > 0 %}
-				{% game springsummer2026.playoffs.first %}
+			{% if fallwinter202627.upcomingGames.length > 0 %}
+				{% game fallwinter202627.upcomingGames.first %}
+			{% elsif fallwinter202627.playoffs.length > 0 %}
+				{% game fallwinter202627.playoffs.first %}
 			{% else %}
 				<p><em>No Game Scheduled</em></p>
 			{% endif %}
@@ -28,9 +28,9 @@ title: ""
 
 		<div class="game-col">
 			<h3>Last Game</h3>
-			{% game springsummer2026.pastGames.first %}
+			{% game springsummer2026.playoffs.last %}
 		</div>
 	</div>
 
-	<div class="view-all"><a href="/seasons/spring-summer-2026/">View All Games</a></div>
+	<div class="view-all"><a href="/seasons/fall-winter-2026-27/">View All Games</a></div>
 </section>
