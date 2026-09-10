@@ -1,18 +1,19 @@
 {
-	"pastGames": [],
-	"upcomingGames": [
+	"pastGames": [
 		{
-			"complete": false,
+			"complete": true,
 			"date": "Wednesday September 9, 2026 at 9:15 PM",
 			"home": {
 				"team": "Kingslayers",
-				"score": 0
+				"score": 8
 			},
 			"away": {
 				"team": "Bombers",
-				"score": 0
+				"score": 1
 			}
-		},
+		}
+	],
+	"upcomingGames": [
 		{
 			"complete": false,
 			"date": "Tuesday September 15, 2026 at 10:10 PM",
