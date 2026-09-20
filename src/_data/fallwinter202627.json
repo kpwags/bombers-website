@@ -2,6 +2,18 @@
 	"pastGames": [
 		{
 			"complete": true,
+			"date": "Tuesday September 15, 2026 at 10:10 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 4
+			},
+			"away": {
+				"team": "Goon Platoon",
+				"score": 2
+			}
+		},
+		{
+			"complete": true,
 			"date": "Wednesday September 9, 2026 at 9:15 PM",
 			"home": {
 				"team": "Kingslayers",
@@ -14,18 +26,6 @@
 		}
 	],
 	"upcomingGames": [
-		{
-			"complete": false,
-			"date": "Tuesday September 15, 2026 at 10:10 PM",
-			"home": {
-				"team": "Bombers",
-				"score": 0
-			},
-			"away": {
-				"team": "Goon Platoon",
-				"score": 0
-			}
-		},
 		{
 			"complete": false,
 			"date": "Sunday September 20, 2026 at 8:45 PM",
