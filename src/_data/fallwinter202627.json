@@ -2,6 +2,18 @@
 	"pastGames": [
 		{
 			"complete": true,
+			"date": "Sunday September 20, 2026 at 8:45 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 4
+			},
+			"away": {
+				"team": "Vandals",
+				"score": 7
+			}
+		},
+		{
+			"complete": true,
 			"date": "Tuesday September 15, 2026 at 10:10 PM",
 			"home": {
 				"team": "Bombers",
@@ -26,18 +38,6 @@
 		}
 	],
 	"upcomingGames": [
-		{
-			"complete": false,
-			"date": "Sunday September 20, 2026 at 8:45 PM",
-			"home": {
-				"team": "Bombers",
-				"score": 0
-			},
-			"away": {
-				"team": "Vandals",
-				"score": 0
-			}
-		},
 		{
 			"complete": false,
 			"date": "Monday September 28, 2026 at 7:15 PM",
