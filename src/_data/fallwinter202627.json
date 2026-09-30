@@ -2,6 +2,18 @@
 	"pastGames": [
 		{
 			"complete": true,
+			"date": "Monday September 28, 2026 at 7:15 PM",
+			"home": {
+				"team": "Bombers",
+				"score": 2
+			},
+			"away": {
+				"team": "Handle with Care",
+				"score": 5
+			}
+		},
+		{
+			"complete": true,
 			"date": "Sunday September 20, 2026 at 8:45 PM",
 			"home": {
 				"team": "Bombers",
@@ -38,18 +50,6 @@
 		}
 	],
 	"upcomingGames": [
-		{
-			"complete": false,
-			"date": "Monday September 28, 2026 at 7:15 PM",
-			"home": {
-				"team": "Bombers",
-				"score": 0
-			},
-			"away": {
-				"team": "Handle with Care",
-				"score": 0
-			}
-		},
 		{
 			"complete": false,
 			"date": "Friday October 2, 2026 at 9:15 PM",
