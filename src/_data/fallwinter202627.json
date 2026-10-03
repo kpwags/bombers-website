@@ -2,6 +2,18 @@
 	"pastGames": [
 		{
 			"complete": true,
+			"date": "Friday October 2, 2026 at 9:15 PM",
+			"home": {
+				"team": "Spare Parts",
+				"score": 1
+			},
+			"away": {
+				"team": "Bombers",
+				"score": 7
+			}
+		},
+		{
+			"complete": true,
 			"date": "Monday September 28, 2026 at 7:15 PM",
 			"home": {
 				"team": "Bombers",
@@ -50,18 +62,6 @@
 		}
 	],
 	"upcomingGames": [
-		{
-			"complete": false,
-			"date": "Friday October 2, 2026 at 9:15 PM",
-			"home": {
-				"team": "Spare Parts",
-				"score": 0
-			},
-			"away": {
-				"team": "Bombers",
-				"score": 0
-			}
-		},
 		{
 			"complete": false,
 			"date": "Sunday October 11, 2026 at 10:15 PM",
